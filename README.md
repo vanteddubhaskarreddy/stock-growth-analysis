@@ -19,7 +19,7 @@ Key achievements:
 
 ## Architecture
 
-![Architecture Diagram](https://fakeimg.pl/800x400/E25A1C/ffffff?text=Stock+Analysis+Architecture)
+![Architecture Diagram](https://fakeimg.pl/800x200/E25A1C/ffffff?text=Stock+Analysis+Architecture)
 
 ### Data Flow
 1. **Extraction**: Parallel collection of stock tickers and price data from Polygon API
@@ -164,7 +164,7 @@ python -m pytest
 
 ## Data Schema
 
-![Data Model](https://fakeimg.pl/800x400/232F3E/ffffff?text=Stock+Analysis+Data+Model)
+![Data Model](https://fakeimg.pl/800x200/232F3E/ffffff?text=Stock+Analysis+Data+Model)
 
 ### Primary Tables
 
